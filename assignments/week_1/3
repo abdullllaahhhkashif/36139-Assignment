@@ -1,0 +1,23 @@
+Question 1: Are lower-income consumers switching from Oil B to cheaper alternatives?
+ rejected
+ The dataset only shows prices, dates, and cities. It has zero info on customer income or what people are actually buying.
+
+Question 2: What is the price gap for Staple A between City 1 and City 2?
+ Accepted
+ We have city columns and prices, so comparing them is easy.
+
+Question 3: Which item showed the highest price variance over the 12 dates?
+ Accepted
+We have prices across 12 dates for each item, so calculating variance is straightforward.
+
+
+
+
+Tool: Socratic AI
+Task: Checked if our research questions actually fit the dataset.
+Result: Cut out questions that needed buyer data and kept the ones focused on city price gaps and changes over time.
+
+
+
+reflected data
+This dataset gives us retail prices over time, but it doesn't show the full picture of spending. Since we can't see how much people buy or what they earn, price numbers alone don't prove if families are struggling or changing their habits. It tells us what stuff costs, not how people are adjusting to those prices.
