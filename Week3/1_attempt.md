@@ -28,6 +28,8 @@ Notes
 [C]--> retailers are putting more burden of inflation on the consumer rather than absorbing the inflationary prices.
 
 Commit code:
+c7ae379
+
 
 
 
